@@ -1,0 +1,92 @@
+#ded {
+	color: green;	
+	font-size: 45px;
+	text-align: center;
+}
+#day {color: green;
+	font-size: 45px;
+	text-align: center;}
+#ddd {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.child {
+	 text-align: center;
+	 border: 3px solid green;
+	 border-color: green;
+     width: 300px;
+     height: 410px;
+     margin: 20px;
+     padding: 15px;
+     border-radius: 30px;
+ 	 
+	}
+.child:hover {
+	width: 315px;
+	height: 425px;
+}
+	hr {
+    background: green;
+    height: 10px;
+	}
+	hr {
+    background: green;
+    height: 10px;
+	}
+	nav {
+	width: 100%;
+}
+ul {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	align-items: center;
+	margin: 1174px
+	margin:auto;
+	max-width:100%;
+}
+li {
+	padding: 12px 20px;
+}
+nav ul li a {
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+}
+
+
+
+ul li:hover div{
+	width: 100%;
+}
+
+ul li:hover a {
+	color: green;
+}
+#lay {width: 97vw;height: 30vh;background-image: url(https://tion.ru/wp-content/uploads/2019/01/kakiye-vitamini-pit-zimoy-01.jpg);
+background-repeat:no-repeat;
+background-size:cover;}
+
+
+a {
+	border: 2px solid green;
+	border-radius: 15px;
+	padding: 15px;
+	color: green;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 22px;
+}
+img {
+	margin: 30px;
+	justify-content: center;
+	width: 180px;
+	height: 200px;
+}
+{
+	font-family: 'Yuji Hentaigana Akari', cursive;
+}
